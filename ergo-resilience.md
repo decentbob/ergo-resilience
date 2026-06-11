@@ -35,9 +35,9 @@ The Manifesto understood this:
 >
 > *Ergo Manifesto, Decentralization First*
 
-That is an organizational instruction, the Manifesto never says how. This document is an attempt at the missing how. Which organizational practices actually keep Ergo decentralized, secure, funded, and alive, while staying aligned with its ethos. An unorganized system does not stay decentralized for long. It re-centralizes quietly.
+That is an organizational instruction, the Manifesto doesn't say how. This document is an attempt at the missing how. Which organizational practices actually keep Ergo decentralized, secure, funded, and alive, while staying aligned with its ethos. An unorganized system does not stay decentralized for long. It re-centralizes quietly.
 
-Two habits follow. Resilience should always be weighed and impact on it stated explicitly for major proposals. And Ergo should be audited honestly for its central points of failure. What follows is an attempt at that audit.
+Two habits follow. Resilience should always be weighed and impact on it stated explicitly for major proposals. And Ergo should be audited honestly for its central points of failure.
 
 ---
 
@@ -99,7 +99,7 @@ Of course distributing responsibility needs people with the skill and willingnes
 
 A project can have good governance and still fail because nobody can afford to keep building.
 
-Ergo has a fair launch without premine or VC allocation. The Foundation treasury is fixed at 4.37% of total supply. That's a real strength, but also means funding is limited.
+Ergo has a fair launch without premine or VC allocation. The Foundation treasury is fixed at 4.37% of total supply. That's a real strength for decentralization, but also means funding is limited.
 
 The price has been in a long decline and developers keep working with little financial incentive. This is the environment where resilience is actually tested. A system that only functions in a bull market is not resilient, it's lucky. Much of the work is donated, the people who keep building largely came for the principle rather than payout. But that only stretches so far. Commercial infrastructure runs on the prospect of profit, which is low with few users. 
 
@@ -119,7 +119,7 @@ Transparency should be non-negotiable. Funds being visible on-chain is not the s
 
 Governance in Ergo is mostly implicit.
 
-The one piece that is explicit and works is protocol change through miner signaling. Soft-forks activate by miners voting over a defined window. Miners consent to consensus changes. The concentration noted in section 2 also carries directly into the vote.
+The one piece that is explicit and works is protocol change through miner signaling. Soft-forks activate by miners voting over a defined window. Miners consent to consensus changes. The concentration noted in 'Technical resilience' also carries directly into the vote.
 
 Other pieces that already work are the [EIP process](https://github.com/ergoplatform/eips), where protocol proposals are written down and argued in public. And the Sigmanauts program, handing self-governance to the community and running key social channels.
 
@@ -149,7 +149,7 @@ A legal entity is useful to sign listings or publish on compliant platforms, but
 
 The edges can be deplatformed even when the protocol cannot. Exchanges can delist, hosting and domain providers can drop a site or repository. A censorship-resistant chain should assume the edges to be pressured and have fallbacks ready.
 
-**Hostile capture.** Capture can be gradual. Accumulating enough hashrate to swing votes, buying influence into a treasury, or social engineering into a maintainer or signing role. The Manifesto's instruction is to find a way to reduce their impact level. The defenses are discussed in other sections as well, distributed authority, legible processes, multiple independent eyes.
+**Hostile capture.** Capture can be gradual. Accumulating enough hashrate to swing votes, buying influence in a treasury, or social engineering into a maintainer or signing role. The Manifesto's instruction is to find a way to reduce their impact level. The defenses are discussed in other sections as well, distributed authority, legible processes, multiple independent eyes.
 
 Ergo's design already makes takeover difficult. No privileged keys, non-custodial and non-interactive applications, minimal reliance on operators, fully open and auditable code.
 
@@ -165,9 +165,9 @@ Ergo's design already makes takeover difficult. No privileged keys, non-custodia
 
 Growth shouldn't be dismissed as marketing or price chasing. For Ergo it is a security concern.
 
-More users means more economic weight behind the chain and actual delivery on the mission. More capable contributors is the direct answer to the part of the concentration problem that is not solved by governance. More use cases for ordinary people make the chain much more resilient than one that only gets traded.
+More users means more economic weight behind the chain and delivery on the mission. More capable contributors is the direct answer to the part of the concentration problem that is not solved by governance. More use cases for ordinary people make the chain much more resilient than one that only gets traded.
 
-This is a real weakspot. The technology is far ahead of adoption, liquidity and developer attraction. Outreach is rightly treated as a shared community responsibility, which also means it's mostly done without strategy or not at all. Getting relevant means doing something real that people actually use.
+This is a real weakspot. The technology is far ahead of adoption, liquidity and developer attraction. Outreach is rightly treated as a shared community responsibility, which also means it's mostly done without strategy or not at all. Getting relevant means doing something that people actually use.
 
 Growth should optimize for lowering friction between Ergo and the people the Manifesto was written for. That needs strong onboarding and documentation, a coherent entry point for new developers such as the [Ergo book](https://github.com/kushti/ergo-book), and some real-world use cases that show that the mission works. The [Ergo Developer Knowledge Base](https://ergo-knowledge-base.vercel.app/) and [Transcripts](https://ergo-transcripts.vercel.app/) for example integrate with AIs, making it easier to start building. The natural audience is a community that already shares Ergo's values or needs the tools it can provide. Not investment hype.
 
@@ -197,18 +197,13 @@ The Manifesto's answer to all this is education. An ethos survives only if it is
 >
 > *Ergo Manifesto, Long-term Focus*
 
-A well functioning decentralized system needs coordination, and structures that deliberately redistribute power. Most of the document reduces to a few practices:
-
-**Cheap**
+A well functioning decentralized system needs coordination, and structures that deliberately redistribute power. Most of the document reduces to these practices:
 
 1. **Written contingency for every critical function**, with named backup and documented knowledge
 2. **An agreed incident response process** and a working security disclosure channel
 3. **Critical keys and accounts under multisig or secret-sharing**
 4. **Distributed, legible authority**. Decision making written down, review tiered by how consensus-critical it is, a real path for new contributors to earn merge authority
 5. **Public accounting** of ecosystem funds, clear and readable
-
-**Long horizon.**
-
 6. **A growing base of capable contributors**, mentored towards work only a few can do today
 7. **Funded and maintained public-goods infrastructure**
 8. **Minimize attack surfaces** of core code, regulatory targets, power grabs, and have fallbacks
