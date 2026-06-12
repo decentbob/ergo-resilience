@@ -4,4 +4,4 @@ A companion to the [Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-
 
 [The Document.](ergo-resilience.md)
 
-It is a starting point for discussion. If a section is wrong, dated, or badly framed, tell me. Feedback welcome: open an issue here, or discuss at [link].
+It is a starting point for discussion. If a section is wrong, dated, or framed badly, tell me. Feedback welcome: open an issue here, or discuss at [Ergo Forum](https://ergoforum.org/t/notes-on-resilience/5330).
