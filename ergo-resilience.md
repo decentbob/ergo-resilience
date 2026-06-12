@@ -105,9 +105,9 @@ The price has been in a long decline and developers keep working with little fin
 
 With its funds depleted, the EF is effectively a legal signature holder. Dev or bug bounties, supported research, professional audits, paid marketing, independent integrations and infrastructure upkeep all need funding. Core development funding now runs through the community DevDAO, and infrastructure through the InfraDAO. Where work cannot pay for itself, it has to be sustained through donations, raffles and crowdfunding.
 
-Transparency should be non-negotiable. Funds being visible on-chain is not the same as their use being legible. A public foundation like the EF, and any DAO that holds community money, should keep an up-to-date record of what was funded, how much, to whom, and what it produced. Transparent spending is a resilience mechanism, it makes capture harder and builds trust that attracts contributors.
+Transparency should be non-negotiable. Funds being visible on-chain is not the same as their use being legible. A public foundation like the EF, and any DAO that holds community money, should keep an up-to-date record of what was funded, how much, to whom, and what it produced. Transparent spending is a resilience mechanism, it makes capture harder and builds trust that attracts contributors. Several DAOs currently use [Paideia](https://app.paideia.im) for transparent spending and voting.
 
-**Practices to uphold.** Transparency is needed, but doesn't resolve the funding problem. There has to be coordination about where funding has the most impact and how to keep public-goods infrastructure running through a long bear market. Donations should be collected before missing funding breaks vital functions.
+**Practices to uphold.** Transparency must be upheld, but doesn't resolve the funding problem. There has to be coordination about where funding has the most impact and how to keep public-goods infrastructure running through a long bear market. Donations should be collected before missing funding breaks vital functions.
 
 ---
 
