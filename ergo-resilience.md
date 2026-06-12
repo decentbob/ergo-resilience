@@ -71,7 +71,7 @@ The same long view also applies to core code, keep it simple and auditable. High
 >
 > *Ergo Manifesto, Decentralization First*
 
-Ergo's protocol research, much of its reference-client review and merge authority, a good deal of its technical coordination, and much of its emergency judgement currently run through one person, Kushti (Alexander Chepurnoy, co-founder of Ergo). He has rare and deep expertise and has built his life around the project. That concentration is Ergo's greatest strength and its most significant resilience risk.
+Ergo's protocol research, much of its reference-client review and merge authority, a good deal of its technical coordination, much of its emergency judgement, and ownership of main community channels currently run through one person, Kushti (Alexander Chepurnoy, co-founder of Ergo). He has rare and deep expertise and has built his life around the project. That concentration is Ergo's greatest strength and its most significant resilience risk.
 
 The manifesto addresses this directly. Actors whose absence would disrupt the system need contingency plans.
 
@@ -122,6 +122,8 @@ Governance in Ergo is mostly implicit.
 The one piece that is explicit and works is protocol change through miner signaling. Soft-forks activate by miners voting over a defined window. Miners consent to consensus changes. The concentration noted in 'Technical resilience' also carries directly into the vote.
 
 Other pieces that already work are the [EIP process](https://github.com/ergoplatform/eips), where protocol proposals are written down and argued in public. And the Sigmanauts program, handing self-governance to the community and running key social channels.
+
+Real decentralization is hard on web2 platforms. Admin and moderation rights are granted and revoked at the owner's discretion.
 
 Almost all else is loose coordination. Informality has real advantages, it is flexible and avoids bureaucracy. But that undocumented process is also illegible, and illegible systems tend to re-centralize and keep newcomers out, because only insiders know how things actually happen.
 
