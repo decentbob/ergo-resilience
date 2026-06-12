@@ -171,7 +171,7 @@ This is a real weakspot. The technology is far ahead of adoption, liquidity and 
 
 Growth should optimize for lowering friction between Ergo and the people the Manifesto was written for. That needs strong onboarding and documentation, a coherent entry point for new developers such as the [Ergo book](https://github.com/kushti/ergo-book), and some real-world use cases that show that the mission works. The [Ergo Developer Knowledge Base](https://ergo-knowledge-base.vercel.app/) and [Transcripts](https://ergo-transcripts.vercel.app/) for example integrate with AIs, making it easier to start building. The natural audience is a community that already shares Ergo's values or needs the tools it can provide. Not investment hype.
 
-**Practices to uphold.** Prove the Manifesto's promise to a non-crypto person with the use cases already being built. Do outreach to communities that already share Ergo's values, led with utility. Building growth on principles, instead of price, is also much better for retention.
+**Practices to uphold.** Prove the Manifesto's promise to a non-crypto person with the use cases being built. Do outreach to communities that already share Ergo's values, led with utility. Building growth on principles, instead of price, is also much better for retention.
 
 ---
 
