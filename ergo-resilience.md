@@ -51,7 +51,9 @@ For a chain built around secure money for the long term, security is the foundat
 
 **Security budget.** Ergo is GPU mined with an ASIC-resistant algorithm, which keeps mining open to ordinary GPU owners. With block reward reaching its floor of 3 ERG (until 2045) and price falling, the hashrate has dropped substantially. In theory that makes Ergo cheap to attack, in practice an attack is not profitable. Exchange liquidity is too low to cash out a large double-spend and CEXs would freeze withdrawals quickly. But that's a weak guarantee. Supplements can help decouple the budget from emission and price: fees and storage rent (currently low relative to block rewards), FIMO and merge mining (non-ergo rewards, proposed). 
 
-**Concentration points.** ASIC resistance is meant to keep block production in many hands, but it also lets a large AI or cloud datacenter point idle GPUs at Ergo and pull them away just as fast. Datacenters are also more efficient and outcompete small miners. Margins shrink or get negative. That makes hashrate more volatile and a majority easier to build. Pool concentration is a current form of the same problem. A single pool that mines a majority of blocks carries that weight in soft-fork voting and can delay or drop valid transactions (transaction policy or stale configuration). Lithos can help here if enough miners care to switch. Cross-chain bridges have separate exposure and are one of the most frequent targets in the industry. Rosen concentrates significant value behind a guard-set multisig with a collateralized watcher layer reporting cross-chain events.
+**Concentration points.** ASIC resistance is meant to keep block production in many hands, but it also lets a large AI or cloud datacenter point idle GPUs at Ergo and pull them away just as fast. Datacenters are also more efficient and outcompete small miners. Margins shrink or get negative. That makes hashrate more volatile and a majority easier to build. No GPU-general algorithm can prevent all specialized hardware. Still, FPGAs have an edge measured in a few x, not the orders of magnitude ASICs gave Bitcoin. Whoever has cheap power can stay competitive.
+
+Pool concentration is a current form of the same problem. A single pool that mines a majority of blocks carries that weight in soft-fork voting and can delay or drop valid transactions (transaction policy or stale configuration). Lithos can help here if enough miners care to switch. Cross-chain bridges have separate exposure and are one of the most frequent targets in the industry. Rosen concentrates significant value behind a guard-set multisig with a collateralized watcher layer reporting cross-chain events.
 
 **The protocol over time.** Ergo's signatures use the same elliptic curve as Bitcoin. Large quantum computers would break them, though the POW itself would survive. The path is a future hard fork, with some groundwork being laid through hash based, curve free primitives. A chain meant to last has to evolve its cryptography ahead of the threat.
 
@@ -168,6 +170,8 @@ Ergo's design already makes takeover difficult. No privileged keys, non-custodia
 Growth shouldn't be dismissed as marketing or price chasing. For Ergo it is a security concern.
 
 More users means more economic weight behind the chain and delivery on the mission. More capable contributors is the direct answer to the part of the concentration problem that is not solved by governance. More use cases for ordinary people make the chain much more resilient than one that only gets traded.
+
+Access is part of this too. Being able to acquire ERG through many exchanges and fiat on-ramps helps the base grow and spread.
 
 This is a real weakspot. The technology is far ahead of adoption, liquidity and developer attraction. Outreach is rightly treated as a shared community responsibility, which also means it's mostly done without strategy or not at all. Getting relevant means doing something that people actually use.
 
